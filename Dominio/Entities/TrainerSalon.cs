@@ -6,5 +6,9 @@ namespace Dominio.Entities;
     {
         [Key]
         public int IdPersona { get; set; }
+        public Persona ? Personas { get; set; }
+        public int IdSalon { get; set; }
+        public Salon ? Salones { get; set; }
+        
         
     }

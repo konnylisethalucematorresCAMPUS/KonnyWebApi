@@ -1,12 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
 
-namespace Dominio.Entities
-{
+namespace Dominio.Entities;
     public class Matricula
     {
+        [Key]
+        public int IdMatriculo { get; set; }
+        public int IdPersona { get; set; }
+        public Persona ? Personas { get; set; }
+        public int IdSalon { get; set; }
+        public Salon ? Salones { get; set; }
         
     }
-}
