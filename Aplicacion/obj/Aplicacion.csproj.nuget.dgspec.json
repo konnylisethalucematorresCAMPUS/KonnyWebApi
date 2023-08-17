@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolM01-054/Pictures/KonnyWebApi/Aplicacion/Aplicacion.csproj": {}
+    "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj": {}
   },
   "projects": {
-    "/home/apolM01-054/Pictures/KonnyWebApi/Aplicacion/Aplicacion.csproj": {
+    "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-054/Pictures/KonnyWebApi/Aplicacion/Aplicacion.csproj",
+        "projectUniqueName": "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "/home/apolM01-054/Pictures/KonnyWebApi/Aplicacion/Aplicacion.csproj",
+        "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj",
         "packagesPath": "/home/apolM01-054/.nuget/packages/",
-        "outputPath": "/home/apolM01-054/Pictures/KonnyWebApi/Aplicacion/obj/",
+        "outputPath": "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj": {
-                "projectPath": "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj"
+              "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj": {
+                "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj"
               },
-              "/home/apolM01-054/Pictures/KonnyWebApi/Persistencia/Persistencia.csproj": {
-                "projectPath": "/home/apolM01-054/Pictures/KonnyWebApi/Persistencia/Persistencia.csproj"
+              "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj": {
+                "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj": {
+    "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj",
+        "projectUniqueName": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj",
+        "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj",
         "packagesPath": "/home/apolM01-054/.nuget/packages/",
-        "outputPath": "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/obj/",
+        "outputPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
@@ -131,14 +131,14 @@
         }
       }
     },
-    "/home/apolM01-054/Pictures/KonnyWebApi/Persistencia/Persistencia.csproj": {
+    "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-054/Pictures/KonnyWebApi/Persistencia/Persistencia.csproj",
+        "projectUniqueName": "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "/home/apolM01-054/Pictures/KonnyWebApi/Persistencia/Persistencia.csproj",
+        "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj",
         "packagesPath": "/home/apolM01-054/.nuget/packages/",
-        "outputPath": "/home/apolM01-054/Pictures/KonnyWebApi/Persistencia/obj/",
+        "outputPath": "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
@@ -153,8 +153,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj": {
-                "projectPath": "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj"
+              "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj": {
+                "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj"
               }
             }
           }

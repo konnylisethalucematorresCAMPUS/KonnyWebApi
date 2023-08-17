@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IvvHeU0bpldSjWoj0e60YH8o8lqKAFF8cDAIFdPQhlmb9ZvM8gR4gzTQE++aVDCMk5R4Ed0TxR0MZsydyJSv/g==",
+  "dgSpecHash": "XJsPYRq36XMpqbnQ1LCeyfztb4gIFQ09EMOQRDz5eBuSuGIlOYeQ0MiXlNpeasAYrxBh9XeDeeP9wckI98Vs4A==",
   "success": true,
-  "projectFilePath": "/home/apolM01-054/Pictures/KonnyWebApi/Persistencia/Persistencia.csproj",
+  "projectFilePath": "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj",
   "expectedPackageFiles": [
     "/home/apolM01-054/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/home/apolM01-054/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

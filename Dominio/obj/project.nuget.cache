@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8HNtLbpnZRBAZHO3S5Fv7uQQ9paAZCgjO07JeQ6h+OW8G9+ZZjFYw5KBe5pNEXGvKhGyU1i1IfAK0Yjd1B2ow==",
+  "dgSpecHash": "EgNfeA2CW1iesHA/rzirMP62dlHvAA7MZwgtkwvUpsfgPb4R9sesqaQOHWAK9Cau4rI3b4RqudB0QVUSpDdD/A==",
   "success": true,
-  "projectFilePath": "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj",
+  "projectFilePath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj",
   "expectedPackageFiles": [
     "/home/apolM01-054/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/home/apolM01-054/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

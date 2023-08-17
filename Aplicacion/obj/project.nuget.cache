@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKZNOCO5CQGr0fiT/z4GAH3gzE0MiRSBwGAiz0pD0juO9oQi2EA32lzL7s+P506NETUv2PxHprls/EJZYvS1LQ==",
+  "dgSpecHash": "GzA0/6wwlz3hNLJB/jZE7YtwxT5Gkl+XcZ14ljfJiij5qtqCJLCJGbi2JATNHUtK2YcIAKF4KXfPNQNZufIMgw==",
   "success": true,
-  "projectFilePath": "/home/apolM01-054/Pictures/KonnyWebApi/Aplicacion/Aplicacion.csproj",
+  "projectFilePath": "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj",
   "expectedPackageFiles": [
     "/home/apolM01-054/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
     "/home/apolM01-054/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

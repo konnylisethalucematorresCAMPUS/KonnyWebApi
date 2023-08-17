@@ -71,7 +71,7 @@ git clone https://github.com/konnylisethalucematorresCAMPUS/KonnyWebApi.git
    - **itext7.pdfhtml**  
      - dotnet add package itext7.pdfhtml --version 5.0.1  
 
-    - cd ..  
+   - cd ..  
 
 # esto va en la carpeta Persistencia  
 
@@ -82,10 +82,12 @@ git clone https://github.com/konnylisethalucematorresCAMPUS/KonnyWebApi.git
     - **Pomelo.EntityFrameworkCore.MySql**  
     - dotnet add package Pomelo.EntityFrameworkCore.MySql --version 7.0.0  
 
-    - cd ..  
+   - cd ..  
 
 # esto va en la carpeta DinoApi  
 
    - **Microsoft.AspNetCore.Authentication.JwtBearer**  
     - cd ApiIncidencias  
     - dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 7.0.10  
+
+

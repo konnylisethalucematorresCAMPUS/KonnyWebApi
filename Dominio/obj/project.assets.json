@@ -5050,11 +5050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj",
+      "projectUniqueName": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/Dominio.csproj",
+      "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj",
       "packagesPath": "/home/apolM01-054/.nuget/packages/",
-      "outputPath": "/home/apolM01-054/Pictures/KonnyWebApi/Dominio/obj/",
+      "outputPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
