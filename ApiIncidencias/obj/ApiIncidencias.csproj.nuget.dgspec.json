@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolM01-054/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj": {}
+    "/home/skylab-103/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj": {}
   },
   "projects": {
-    "/home/apolM01-054/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj": {
+    "/home/skylab-103/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-054/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj",
+        "projectUniqueName": "/home/skylab-103/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj",
         "projectName": "ApiIncidencias",
-        "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj",
-        "packagesPath": "/home/apolM01-054/.nuget/packages/",
-        "outputPath": "/home/apolM01-054/Documents/KonnyWebApi/ApiIncidencias/obj/",
+        "projectPath": "/home/skylab-103/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj",
+        "packagesPath": "/home/skylab-103/.nuget/packages/",
+        "outputPath": "/home/skylab-103/Documents/KonnyWebApi/ApiIncidencias/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
+          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj": {
-                "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj"
+              "/home/skylab-103/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/home/skylab-103/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj"
               }
             }
           }
@@ -78,17 +78,17 @@
         }
       }
     },
-    "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj": {
+    "/home/skylab-103/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj",
+        "projectUniqueName": "/home/skylab-103/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj",
-        "packagesPath": "/home/apolM01-054/.nuget/packages/",
-        "outputPath": "/home/apolM01-054/Documents/KonnyWebApi/Aplicacion/obj/",
+        "projectPath": "/home/skylab-103/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/home/skylab-103/.nuget/packages/",
+        "outputPath": "/home/skylab-103/Documents/KonnyWebApi/Aplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
+          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -100,11 +100,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj": {
-                "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj"
+              "/home/skylab-103/Documents/KonnyWebApi/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-103/Documents/KonnyWebApi/Dominio/Dominio.csproj"
               },
-              "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj": {
-                "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj"
+              "/home/skylab-103/Documents/KonnyWebApi/Persistencia/Persistencia.csproj": {
+                "projectPath": "/home/skylab-103/Documents/KonnyWebApi/Persistencia/Persistencia.csproj"
               }
             }
           }
@@ -138,17 +138,17 @@
         }
       }
     },
-    "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj": {
+    "/home/skylab-103/Documents/KonnyWebApi/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj",
+        "projectUniqueName": "/home/skylab-103/Documents/KonnyWebApi/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj",
-        "packagesPath": "/home/apolM01-054/.nuget/packages/",
-        "outputPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/obj/",
+        "projectPath": "/home/skylab-103/Documents/KonnyWebApi/Dominio/Dominio.csproj",
+        "packagesPath": "/home/skylab-103/.nuget/packages/",
+        "outputPath": "/home/skylab-103/Documents/KonnyWebApi/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
+          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -205,17 +205,17 @@
         }
       }
     },
-    "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj": {
+    "/home/skylab-103/Documents/KonnyWebApi/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj",
+        "projectUniqueName": "/home/skylab-103/Documents/KonnyWebApi/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/Persistencia.csproj",
-        "packagesPath": "/home/apolM01-054/.nuget/packages/",
-        "outputPath": "/home/apolM01-054/Documents/KonnyWebApi/Persistencia/obj/",
+        "projectPath": "/home/skylab-103/Documents/KonnyWebApi/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/skylab-103/.nuget/packages/",
+        "outputPath": "/home/skylab-103/Documents/KonnyWebApi/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
+          "/home/skylab-103/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -227,8 +227,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj": {
-                "projectPath": "/home/apolM01-054/Documents/KonnyWebApi/Dominio/Dominio.csproj"
+              "/home/skylab-103/Documents/KonnyWebApi/Dominio/Dominio.csproj": {
+                "projectPath": "/home/skylab-103/Documents/KonnyWebApi/Dominio/Dominio.csproj"
               }
             }
           }

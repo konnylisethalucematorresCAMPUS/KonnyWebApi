@@ -28,11 +28,9 @@ public class CiudadConfiguration : IEntityTypeConfiguration<Ciudad>
             .HasColumnType("int")
             .IsRequired();
 
-        builder.HasOne(p => p.Departamentos) // La tabla Ciudad esta recibiendo en esta linea de codigo la informacion mandada de la tabla Departamentos 
-            .WithMany(p => p.Ciudades)      //La tabla Departamentos esta mandando en esta linea de codigo la informacion a la tabla Ciudades
+        builder.HasOne(p => p.Departamentos)       // La tabla Ciudad esta recibiendo en esta linea de codigo la informacion mandada de la tabla Departamentos 
+            .WithMany(p => p.Ciudades)             //La tabla Departamentos esta mandando en esta linea de codigo la informacion a la tabla Ciudades
             .HasForeignKey(p => p.IdDepartamento); // La propiedad que recibe esta informacion es el IdDepartamento que se encuentra en la tabla Ciudad
 
-    
-    
     }
 }

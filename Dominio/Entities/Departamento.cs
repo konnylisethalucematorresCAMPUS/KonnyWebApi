@@ -6,8 +6,13 @@ namespace Dominio.Entities;
         [Key]
         public int IdDepartamento { get; set; }
         public string ? NombreDepartamento { get; set; }
+
+
         public int IdPais { get; set; }
-        public Pais ? Paises { get; set;} 
+        public Pais ? Paises { get; set; } 
+        
+        
         public ICollection<Ciudad> ? Ciudades { get; set; }
+
 
     }

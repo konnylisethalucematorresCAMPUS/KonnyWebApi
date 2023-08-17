@@ -8,6 +8,6 @@ public class SalonConfiguration : IEntityTypeConfiguration<Salon>
 {
     public void Configure(EntityTypeBuilder<Salon> builder)
     {
-        throw new NotImplementedException();
+       
     }
 }

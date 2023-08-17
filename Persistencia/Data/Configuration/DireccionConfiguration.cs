@@ -11,7 +11,7 @@ public class DireccionConfiguration : IEntityTypeConfiguration<Direccion>
     {
         builder.ToTable ("Direccion");
 
-        builder.Property(p => p.IdDireccion) 
+        builder.Property(p =>p.IdDireccion) 
             .HasAnnotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn)
             .HasColumnName("IdDireccion") 
             .HasColumnType("int")
@@ -40,30 +40,30 @@ public class DireccionConfiguration : IEntityTypeConfiguration<Direccion>
             .HasMaxLength(0)
             .IsRequired();
 
-        builder.Property(p =>p.NumeroViaSecundaria)
+        builder.Property(p => p.NumeroViaSecundaria)
             .HasColumnName("NumeroViaSecundaria")
             .HasColumnType("int")
             .IsRequired();
 
-        builder.Property(p =>p.LetraViaSecundaria)
+        builder.Property(p => p.LetraViaSecundaria)
             .HasColumnName("LetraViaSecundaria")
             .HasColumnType("varchar")
             .HasMaxLength(4)
             .IsRequired();
 
-        builder.Property(p =>p.SufijoCardinalViaSecundaria)
+        builder.Property(p => p.SufijoCardinalViaSecundaria)
             .HasColumnName("SufijoCardinalViaSecundaria")
             .HasColumnType("varchar")
             .HasMaxLength(20)
             .IsRequired();
 
-        builder.Property(p =>p.IdPersona)
+        builder.Property(p => p.IdPersona)
             .HasColumnName("IdPersona")
             .HasColumnType("int")
             .IsRequired();
 
 
-        builder.HasOne(p =>p.Personas)
+        builder.HasOne(p => p.Personas)
             .WithMany(p => p.Direcciones)
             .HasForeignKey(p => p.IdPersona);
 

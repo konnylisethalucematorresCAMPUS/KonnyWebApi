@@ -7,6 +7,6 @@ public class TipoPersonaConfiguration : IEntityTypeConfiguration<TipoPersona>
 {
     public void Configure(EntityTypeBuilder<TipoPersona> builder)
     {
-        throw new NotImplementedException();
+        
     }
 }

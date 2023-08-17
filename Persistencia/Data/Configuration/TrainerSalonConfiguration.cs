@@ -7,6 +7,6 @@ public class TrainerSalonConfiguration : IEntityTypeConfiguration<TrainerSalon>
 {
     public void Configure(EntityTypeBuilder<TrainerSalon> builder)
     {
-        throw new NotImplementedException();
+        
     }
 }
