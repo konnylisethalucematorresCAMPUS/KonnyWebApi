@@ -69,7 +69,7 @@ git clone https://github.com/konnylisethalucematorresCAMPUS/KonnyWebApi.git
     - dotnet add package FluentValidation.AspNetCore --version 11.3.0  
 
    - **itext7.pdfhtml**  
-     - dotnet add package itext7.pdfhtml --version 5.0.1  
+     - dotnet add package itext7.pdfhtml --version 5.0.1   
 
    - cd ..  
 
@@ -79,7 +79,7 @@ git clone https://github.com/konnylisethalucematorresCAMPUS/KonnyWebApi.git
     - cd Persistencia  
     - dotnet add package Microsoft.EntityFrameworkCore --version 7.0.10   
 
-    - **Pomelo.EntityFrameworkCore.MySql**  
+   - **Pomelo.EntityFrameworkCore.MySql**  
     - dotnet add package Pomelo.EntityFrameworkCore.MySql --version 7.0.0  
 
    - cd ..  
