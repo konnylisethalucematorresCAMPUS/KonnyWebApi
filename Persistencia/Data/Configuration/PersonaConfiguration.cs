@@ -34,6 +34,10 @@ public class PersonaConfiguration : IEntityTypeConfiguration<Persona>
             .HasColumnType("int")
             .IsRequired();
 
+        builder.HasOne(p => p.Generos)
+            .WithMany(p => p.Personas)
+            .HasForeignKey(p =>p.IdGenero);
+
         builder.Property(p => p.IdCiudad)
             .HasColumnName("IdCiudad")
             .HasColumnType("int")

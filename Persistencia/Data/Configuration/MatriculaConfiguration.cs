@@ -26,7 +26,7 @@ public class MatriculaConfiguration : IEntityTypeConfiguration<Matricula>
             .HasForeignKey(p => p.IdPersona);
         
         builder.Property(p => p.IdSalon)
-            .HasColumnName("IdPersona")
+            .HasColumnName("IdSalon")
             .HasColumnType("int")
             .IsRequired();
 
