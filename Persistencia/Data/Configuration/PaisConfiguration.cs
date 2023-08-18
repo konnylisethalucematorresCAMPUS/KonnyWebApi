@@ -10,13 +10,13 @@ public class PaisConfiguration : IEntityTypeConfiguration<Pais>
     {
        builder.ToTable("Pais");
 
-       builder.Property(p =>p.IdPais)
+       builder.Property(p => p.IdPais)
             .HasAnnotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn)
             .HasColumnName("IdPais")
             .HasColumnType("int")
             .IsRequired();
 
-        builder.Property(p =>p.NombrePais)
+        builder.Property(p => p.NombrePais)
             .HasColumnName("NombrePais")
             .HasColumnType("varchar")
             .HasMaxLength(40)

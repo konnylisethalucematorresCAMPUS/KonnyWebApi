@@ -11,24 +11,24 @@ public class DireccionConfiguration : IEntityTypeConfiguration<Direccion>
     {
         builder.ToTable ("Direccion");
 
-        builder.Property(p =>p.IdDireccion) 
+        builder.Property(p => p.IdDireccion) 
             .HasAnnotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn)
             .HasColumnName("IdDireccion") 
             .HasColumnType("int")
             .IsRequired();
 
-        builder.Property(p =>p.TipoVia)
+        builder.Property(p => p.TipoVia)
             .HasColumnName("TipoVia")
             .HasColumnType("varchar")
             .HasMaxLength (50)
             .IsRequired();
 
-        builder.Property(p =>p.Numero)
+        builder.Property(p => p.Numero)
             .HasColumnName("Numero")
             .HasColumnType ("int")
             .IsRequired();
 
-        builder.Property(p =>p.Letra)
+        builder.Property(p => p.Letra)
             .HasColumnName("Letra")
             .HasColumnType("varchar")
             .HasMaxLength(4)

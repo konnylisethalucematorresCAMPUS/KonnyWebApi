@@ -11,13 +11,13 @@ public class GeneroConfiguration : IEntityTypeConfiguration<Genero>
     {
         builder.ToTable("Genero");
 
-        builder.Property(p =>p.IdGenero)
+        builder.Property(p => p.IdGenero)
             .HasAnnotation("MySql:ValueGenerationStrategy",  MySqlValueGenerationStrategy.IdentityColumn)
             .HasColumnName("Genero") 
             .HasColumnType("int")
             .IsRequired();
 
-        builder.Property(p =>p.NombreGenero)
+        builder.Property(p => p.NombreGenero)
             .HasColumnName("NombreGenero")
             .HasColumnType("varchar")
             .HasMaxLength(50)
