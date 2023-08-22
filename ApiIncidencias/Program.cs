@@ -1,3 +1,4 @@
+using ApiIncidencias.Extensions;
 using Microsoft.EntityFrameworkCore;
 using Persistencia.Data;
 
@@ -6,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+builder.Services.ConfigureCors();
 
 builder.Services.AddDbContext<KonnyContext>(options =>
 {
@@ -35,3 +38,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+app.UseCors("CorsPolicy");

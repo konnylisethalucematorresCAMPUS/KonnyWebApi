@@ -5881,19 +5881,19 @@
     ]
   },
   "packageFolders": {
-    "/home/skylab-103/.nuget/packages/": {}
+    "/home/apolM01-054/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skylab-103/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj",
+      "projectUniqueName": "/home/apolM01-054/Downloads/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj",
       "projectName": "ApiIncidencias",
-      "projectPath": "/home/skylab-103/Documents/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj",
-      "packagesPath": "/home/skylab-103/.nuget/packages/",
-      "outputPath": "/home/skylab-103/Documents/KonnyWebApi/ApiIncidencias/obj/",
+      "projectPath": "/home/apolM01-054/Downloads/KonnyWebApi/ApiIncidencias/ApiIncidencias.csproj",
+      "packagesPath": "/home/apolM01-054/.nuget/packages/",
+      "outputPath": "/home/apolM01-054/Downloads/KonnyWebApi/ApiIncidencias/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/skylab-103/.nuget/NuGet/NuGet.Config"
+        "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5905,8 +5905,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/skylab-103/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj": {
-              "projectPath": "/home/skylab-103/Documents/KonnyWebApi/Aplicacion/Aplicacion.csproj"
+            "/home/apolM01-054/Downloads/KonnyWebApi/Aplicacion/Aplicacion.csproj": {
+              "projectPath": "/home/apolM01-054/Downloads/KonnyWebApi/Aplicacion/Aplicacion.csproj"
             }
           }
         }
