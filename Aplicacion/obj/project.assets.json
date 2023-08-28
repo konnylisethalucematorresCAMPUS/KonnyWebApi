@@ -5235,19 +5235,19 @@
     ]
   },
   "packageFolders": {
-    "/home/apolM01-054/.nuget/packages/": {}
+    "C:\\Users\\APM01-54\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolM01-054/Downloads/KonnyWebApi/Aplicacion/Aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\APM01-54\\Documents\\KonnyWebApi\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "/home/apolM01-054/Downloads/KonnyWebApi/Aplicacion/Aplicacion.csproj",
-      "packagesPath": "/home/apolM01-054/.nuget/packages/",
-      "outputPath": "/home/apolM01-054/Downloads/KonnyWebApi/Aplicacion/obj/",
+      "projectPath": "C:\\Users\\APM01-54\\Documents\\KonnyWebApi\\Aplicacion\\Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\APM01-54\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\APM01-54\\Documents\\KonnyWebApi\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/apolM01-054/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\APM01-54\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5259,11 +5259,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/apolM01-054/Downloads/KonnyWebApi/Dominio/Dominio.csproj": {
-              "projectPath": "/home/apolM01-054/Downloads/KonnyWebApi/Dominio/Dominio.csproj"
+            "C:\\Users\\APM01-54\\Documents\\KonnyWebApi\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\APM01-54\\Documents\\KonnyWebApi\\Dominio\\Dominio.csproj"
             },
-            "/home/apolM01-054/Downloads/KonnyWebApi/Persistencia/Persistencia.csproj": {
-              "projectPath": "/home/apolM01-054/Downloads/KonnyWebApi/Persistencia/Persistencia.csproj"
+            "C:\\Users\\APM01-54\\Documents\\KonnyWebApi\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Users\\APM01-54\\Documents\\KonnyWebApi\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5293,7 +5293,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
